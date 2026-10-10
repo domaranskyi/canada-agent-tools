@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.domaranskyi/canada-due-diligence",
+  "title": "Canada Company Due Diligence Check",
+  "description": "Due diligence on Canadian companies: registry status, sanctions and risk signals via Apify.",
+  "version": "1.0.0",
+  "repository": {"url": "https://github.com/domaranskyi/canada-agent-tools", "source": "github", "subfolder": "canada-due-diligence"},
+  "remotes": [{"type": "streamable-http", "url": "https://mcp.apify.com/?tools=canada-dd/canada-due-diligence"}]
+}

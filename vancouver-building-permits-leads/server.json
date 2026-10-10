@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.domaranskyi/vancouver-building-permits-leads",
+  "title": "Vancouver Building Permits & New Business Leads",
+  "description": "Vancouver building permits and new business licence leads for sales prospecting via Apify.",
+  "version": "1.0.0",
+  "repository": {"url": "https://github.com/domaranskyi/canada-agent-tools", "source": "github", "subfolder": "vancouver-building-permits-leads"},
+  "remotes": [{"type": "streamable-http", "url": "https://mcp.apify.com/?tools=canada-dd/vancouver-building-permits-leads"}]
+}
