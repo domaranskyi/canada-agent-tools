@@ -26,3 +26,9 @@ MCP tools for AI agents, hosted on Apify (remote MCP, streamable HTTP; Apify OAu
 - CPI, NFP, PPI, JOLTS, GDP, PCE, retail sales, housing, FOMC, jobless claims, Treasury auctions, plus Statistics Canada and Bank of Canada. Release times and actuals come from official sources only. Not investment advice.
 
 `server.json` files for the official MCP registry are in each subfolder.
+
+## NYC Construction & Property Leads
+- MCP: `https://mcp.apify.com/?tools=canada-dd/nyc-construction-property-leads`
+- Apify Store: https://apify.com/canada-dd/nyc-construction-property-leads
+- Registry: `io.github.domaranskyi/nyc-construction-property-leads`
+- NYC DOB NOW job filings (early stage) + approved permits as leads. Data: NYC Open Data (NYC DOB), NYC Open Data Terms of Use.

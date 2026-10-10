@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.domaranskyi/nyc-construction-property-leads",
+  "title": "NYC Construction & Property Leads",
+  "description": "NYC DOB NOW job filings and approved permits as construction sales leads via Apify.",
+  "version": "1.0.0",
+  "repository": {"url": "https://github.com/domaranskyi/canada-agent-tools", "source": "github", "subfolder": "nyc-construction-property-leads"},
+  "remotes": [{"type": "streamable-http", "url": "https://mcp.apify.com/?tools=canada-dd/nyc-construction-property-leads"}]
+}
