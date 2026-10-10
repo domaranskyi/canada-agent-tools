@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.domaranskyi/us-canada-economic-calendar",
+  "title": "US Economic Calendar + Canada (Official Sources)",
+  "description": "US/Canada economic calendar with actuals from BLS, BEA, Census, Fed, DOL, StatCan, Bank of Canada.",
+  "version": "1.0.0",
+  "repository": {"url": "https://github.com/domaranskyi/canada-agent-tools", "source": "github", "subfolder": "us-canada-economic-calendar"},
+  "remotes": [{"type": "streamable-http", "url": "https://mcp.apify.com/?tools=canada-dd/us-canada-economic-calendar"}]
+}

@@ -19,4 +19,10 @@ MCP tools for AI agents, hosted on Apify (remote MCP, streamable HTTP; Apify OAu
 - Registry: `io.github.domaranskyi/canada-tax-fx`
 - GST/HST/PST/QST rates & calculation by province and date; Bank of Canada exchange rates (Source: Bank of Canada; data free at bankofcanada.ca). Not tax advice.
 
+## US Economic Calendar + Canada (Official Sources)
+- MCP: `https://mcp.apify.com/?tools=canada-dd/us-canada-economic-calendar`
+- Apify Store: https://apify.com/canada-dd/us-canada-economic-calendar
+- Registry: `io.github.domaranskyi/us-canada-economic-calendar`
+- CPI, NFP, PPI, JOLTS, GDP, PCE, retail sales, housing, FOMC, jobless claims, Treasury auctions, plus Statistics Canada and Bank of Canada. Release times and actuals come from official sources only. Not investment advice.
+
 `server.json` files for the official MCP registry are in each subfolder.
