@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.domaranskyi/canada-tax-fx",
+  "title": "Canada Sales Tax & CAD Exchange Rates",
+  "description": "Canadian GST/HST/PST/QST rates and calculator by province/date, plus Bank of Canada CAD FX rates.",
+  "version": "1.0.0",
+  "repository": {"url": "https://github.com/domaranskyi/canada-agent-tools", "source": "github", "subfolder": "canada-tax-fx"},
+  "remotes": [{"type": "streamable-http", "url": "https://mcp.apify.com/?tools=canada-dd/canada-sales-tax-exchange-rates"}]
+}
