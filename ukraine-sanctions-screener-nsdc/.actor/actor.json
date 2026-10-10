@@ -1,0 +1,4 @@
+{"actorSpecification": 1, "name": "ukraine-sanctions-screener-nsdc", "title": "Ukraine Sanctions Screener (NSDC)",
+ "description": "Screen people, companies and vessels against Ukraine's State Sanctions Register (RNBO/NSDC). Fuzzy name + ID matching across Ukrainian, Russian and Latin spellings. Bundled snapshot index, no NSDC download needed. $0.004 per screened name.",
+ "version": "0.1", "buildTag": "latest", "input": "./input_schema.json", "dockerfile": "../Dockerfile",
+ "storages": {"dataset": "./dataset_schema.json"}, "readme": "../README.md", "output": "./output_schema.json"}

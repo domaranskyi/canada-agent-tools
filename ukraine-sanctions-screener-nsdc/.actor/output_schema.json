@@ -1,0 +1,3 @@
+{"actorOutputSchemaVersion": 1, "title": "Screening output", "properties": {
+ "results": {"type": "string", "title": "Screening results", "template": "{{links.apiDefaultDatasetUrl}}/items?view=overview"},
+ "fullResults": {"type": "string", "title": "Full results (JSON)", "template": "{{links.apiDefaultDatasetUrl}}/items"}}}

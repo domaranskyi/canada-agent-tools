@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.domaranskyi/ukraine-sanctions-screener-nsdc",
+  "title": "Ukraine Sanctions Screener (NSDC)",
+  "description": "Screen names/IDs against Ukraine's NSDC State Sanctions Register (snapshot) via Apify.",
+  "version": "1.0.0",
+  "repository": {"url": "https://github.com/domaranskyi/canada-agent-tools", "source": "github", "subfolder": "ukraine-sanctions-screener-nsdc"},
+  "remotes": [{"type": "streamable-http", "url": "https://mcp.apify.com/?tools=canada-dd/ukraine-sanctions-screener-nsdc"}]
+}

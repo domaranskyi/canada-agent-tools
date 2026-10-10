@@ -32,3 +32,9 @@ MCP tools for AI agents, hosted on Apify (remote MCP, streamable HTTP; Apify OAu
 - Apify Store: https://apify.com/canada-dd/nyc-construction-property-leads
 - Registry: `io.github.domaranskyi/nyc-construction-property-leads`
 - NYC DOB NOW job filings (early stage) + approved permits as leads. Data: NYC Open Data (NYC DOB), NYC Open Data Terms of Use.
+
+## Ukraine Sanctions Screener (NSDC)
+- MCP: `https://mcp.apify.com/?tools=canada-dd/ukraine-sanctions-screener-nsdc`
+- Apify Store: https://apify.com/canada-dd/ukraine-sanctions-screener-nsdc
+- Registry: `io.github.domaranskyi/ukraine-sanctions-screener-nsdc`
+- Fuzzy name and ID screening against Ukraine's State Sanctions Register (individuals, legal entities, vessels). Source: State Sanctions Register / RNBO NSDC (drs.nsdc.gov.ua), offline snapshot dated 09.10.2026, refreshed by re-uploading the CSV exports. The data index is not committed here; build it with `build_index.py`.

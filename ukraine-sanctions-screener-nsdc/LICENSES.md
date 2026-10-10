@@ -1,0 +1,2 @@
+# Data licenses
+- State Sanctions Register of Ukraine (Державний реєстр санкцій), maintained by the National Security and Defense Council of Ukraine (RNBO / NSDC), https://drs.nsdc.gov.ua. Public official information based on Presidential decrees enacting NSDC decisions (official documents are not subject to copyright under Art. 10 of the Law of Ukraine "On Copyright and Related Rights"). This actor uses an offline snapshot of the register's "actions" exports dated 09.10.2026, reprocessed into a search index. No affiliation with or endorsement by the NSDC.

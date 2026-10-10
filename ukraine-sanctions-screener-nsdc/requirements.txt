@@ -1,0 +1,2 @@
+apify>=2
+rapidfuzz>=3
