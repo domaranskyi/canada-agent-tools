@@ -7,7 +7,7 @@ Screen **people, companies and vessels** against **Ukraine's State Sanctions Reg
 - **All three registers:** individuals, legal entities and vessels, with the **status** of each subject (active, lifted or expired), decrees, dates, sanctions term and end date.
 - **Fast, with no scraping.** The index is bundled into the actor, so runs never download from the NSDC site.
 
-Built for KYC/AML, compliance, procurement and due-diligence teams, and for AI agents (available as an MCP tool).
+Built for KYC/AML, compliance, procurement and due-diligence teams, and for Super Intelligence agents (available as an MCP tool).
 
 ## Data snapshot: please read
 The register website is protected against automated downloads, so this actor ships an **offline snapshot** built from the official NSDC "actions" CSV exports dated **09.10.2026**. The snapshot covers 22,625 individual, 13,700 legal-entity and 888 vessel action rows, which collapse to 13,943 individuals, 9,682 legal entities and 888 vessels (24,513 subjects).

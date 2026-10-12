@@ -1,6 +1,6 @@
 # Canada Agent Tools
 
-MCP tools for AI agents, hosted on Apify (remote MCP, streamable HTTP; Apify OAuth/token required).
+MCP tools for Super Intelligence agents, hosted on Apify (remote MCP, streamable HTTP; Apify OAuth/token required).
 
 ## Canada Company Due Diligence Check
 - MCP: `https://mcp.apify.com/?tools=canada-dd/canada-due-diligence`
