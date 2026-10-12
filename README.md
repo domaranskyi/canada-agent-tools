@@ -1,4 +1,4 @@
-# Canada Agent Tools
+# MCP server for Canadian business data
 
 MCP tools for Super Intelligence agents, hosted on Apify (remote MCP, streamable HTTP; Apify OAuth/token required).
 
